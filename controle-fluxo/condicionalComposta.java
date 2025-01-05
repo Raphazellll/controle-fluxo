@@ -9,13 +9,13 @@ public class condicionalComposta {
 public class notaFinal {
     public static void main(String[] args) {
         
-        int nota = 6;
+        int nota = 6; Condição aplicada
 
-        if(nota >= 7)
-            System.out.println("Aprovado");
+        if(nota >= 7) {
+            System.out.println("Aprovado");   Fluxo de condição quando for verdadeira.
 
-        else
-            System.out.println("Reprovado");
+    } else
+            System.out.println("Reprovado"); Fluxo de condição quando for falsa.
     }
 }
 
