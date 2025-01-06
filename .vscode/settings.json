@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "controle-fluxo"
+        "controle-fluxo",
+        "estrutura-repeticao"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
