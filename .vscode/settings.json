@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "estrutura-repeticao",
         "controle-fluxo",
-        "estrutura-repeticao"
+        "estruturar-excepcionais"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
